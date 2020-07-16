@@ -16,6 +16,6 @@ def pop_with_args(arr)
 end
 
 def using_shift(array)
-  shifted_element = array.shifted
+  shifted_element = array.shift
   shifted_element
 end
