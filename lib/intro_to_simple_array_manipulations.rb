@@ -15,3 +15,7 @@ def pop_with_args(arr)
   popped_elements = arr.pop(2)
 end
 
+def using_shift(array)
+  shifted_element = array.shifted
+  shifted_element
+end
